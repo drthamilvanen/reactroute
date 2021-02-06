@@ -1,0 +1,6 @@
+* {
+    background: props.btncolour;
+    border-radius: 1px;
+    font-size: 1rem;
+
+}
